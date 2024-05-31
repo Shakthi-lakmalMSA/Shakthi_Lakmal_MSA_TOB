@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/Background.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "As a dynamic student at the University of Peradeniya, I am deeply passionate about the intersection of technology and education. Throughout my academic journey, I have held leadership roles, including serving as an AIESEC Marketing Specialist Business Development Team Leader and as Vice President of External Relations at Prime Minds. In these capacities, I have fostered cross-cultural understanding and contributed to the growth of our community.As a journalist at Pera Beats, I have honed my skills in capturing the essence of university life, sharing stories that resonate with our diverse student body.As a Microsoft Student Ambassador, my mission is to bridge the gap between Microsoft’s cutting-edge technology and the educational landscape at our university. Through workshops, events, and collaboration, I aim to cultivate innovation, empower fellow students, and create meaningful impact.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "AI Engineering",
+  "Data Science",
+  "Machine Learning",
+  "Computer vision",
+  "Web app development",
+  "Big Data",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a Microsoft Learning Student Ambassador, I help students and educators learn about Microsoft technologies and tools, and empower them to use them for their academic and professional development. I also collaborate with other ambassadors and Microsoft mentors to organize events, workshops, and webinars, and share my insights and feedback on Microsoft products and services.In addition, I am the Director and CEO of Yesh Ceylon, a startup that aims to promote Sri Lankan culture and products through online platforms. I am passionate about marketing and innovation, and I use my skills in web design, B2C marketing, and communication to create and manage our website, social media, and online store. I also lead a team of talented and creative individuals who share my vision and values.";
 
 const About = () => {
   return (
